@@ -2,37 +2,3 @@
 PC software
 1230v3 cpu, B85主板，8G内存（2根4GB,双通道），GT240显卡，三星500G固态硬盘
 
-============办公==============
-Office2016
-PSCC2019
-SumatraPDF
-截图faststone
-Everything
-Mindmanager
-
-=========系统工具==========
-Alcohol 120%
-Bandizip 6.25 无广告版
-WinRAR
-搜狗输入法 9.6 精简版
-Chrome
-IDM
-图吧工具箱
-Ventory
-PE EasyU/WePE
-系统驱动总裁
-UU远程
-notepad++
-VMware
-
-==========影视===========
-Honeyview 蜂蜜浏览器
-Potplayer
-格式工厂
-洛雪音乐
-
-==========游戏=============
-小霸王游戏
-
-==========上网==============
-Clashverge
