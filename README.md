@@ -29,3 +29,5 @@ https://github.com/vernesong/OpenClash
 
 分流规则
 https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo/geosite
+GEO data文件
+https://github.com/DustinWin/ruleset_geodata?tab=readme-ov-file
