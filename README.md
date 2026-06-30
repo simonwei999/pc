@@ -20,3 +20,6 @@ https://github.com/yuliskov/SmartTube
 
 节假日Canlendar GitHub订阅地址: 
 https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holidayCal.ics
+
+Freeplane思维导图
+https://github.com/freeplane/freeplane
