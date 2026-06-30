@@ -23,3 +23,9 @@ https://raw.githubusercontent.com/lanceliao/china-holiday-calender/master/holida
 
 Freeplane思维导图
 https://github.com/freeplane/freeplane
+
+Openclash
+https://github.com/vernesong/OpenClash
+
+分流规则
+https://github.com/MetaCubeX/meta-rules-dat/tree/meta/geo/geosite
