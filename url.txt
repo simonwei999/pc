@@ -1,2 +1,2 @@
 唱歌、影视仓软件
-https://github.com/youhunwl/TVAPP/tree/refs/heads/main
+https://github.com/youhunwl/TVAPP
