@@ -16,7 +16,7 @@ https://github.com/ILLKX/Windows
 https://github.com/pdone/lx-music-source
 
 洛雪音乐源
-https://github.com/pdone/lx-music-source
+https://github.com/guoyue2010/lxmusic-/releases
 
 SmartTube
 https://github.com/yuliskov/SmartTube
