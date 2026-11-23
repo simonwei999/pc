@@ -37,3 +37,4 @@ GEO data文件
 https://github.com/DustinWin/ruleset_geodata?tab=readme-ov-file
 
 misterdownloadmanager
+https://github.com/anefzaoui/misterdownloadmanager
