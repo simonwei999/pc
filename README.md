@@ -38,3 +38,6 @@ https://github.com/DustinWin/ruleset_geodata?tab=readme-ov-file
 
 misterdownloadmanager
 https://github.com/anefzaoui/misterdownloadmanager
+
+Windows activation 系统激活
+https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file#download--how-to-use-it
